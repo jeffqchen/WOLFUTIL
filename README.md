@@ -29,4 +29,4 @@ Add the executable to `AUTOEXEC.BAT` so it loads as soon as possible during syst
 
 ## Compiling
 
-This utility is developed in Borland Turbo C++ 3.0.
+This utility is developed in `Borland Turbo C++ 3.0`.
