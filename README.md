@@ -13,7 +13,7 @@ By default, the JAMMA video output will be switched to Voodoo. You can change th
 - `1 / v / V` - Voodoo output
 - `2 / t / T` - Test grid screen
 
-### Watchdog Upkeeping through TSR
+### Watchdog Upkeeping TSR
 
 A TSR procedure is attached to the MSDOS timer interrupt (8) and feeds the watchdog `address 0xCB200` every second in order to keep the system from resetting, as well as maintaining the selected JAMMA video output.
 
