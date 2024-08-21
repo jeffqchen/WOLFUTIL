@@ -1,4 +1,4 @@
-# WOLFUTIL - MSDOS TSR Utility for Taito Wolf System
+# WOLFUTIL - MSDOS Utility for Taito Wolf System
 
 This utility allows you to switch video output on the JAMMA edge of the Taito Wolf System, so you can run MSDOS games supporting the onboard 3Dfx Voodoo.
 
